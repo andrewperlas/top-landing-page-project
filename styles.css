@@ -1,0 +1,21 @@
+* {
+    font-family: Roboto, 'Times New Roman', Times, serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 5px 200px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 12px;
+}
